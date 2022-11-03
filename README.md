@@ -5,4 +5,4 @@ There is the list of my projects: <br>
 ## <a href="https://vksearcher.ru/games/blackjack/welcome">BlackJack</a>
 
 ## CodeWars kyu
-![large](https://user-images.githubusercontent.com/36971976/196982555-4619aa86-3422-4771-b63a-198c988f4be8.svg)
+![large](https://user-images.githubusercontent.com/36971976/199661214-a6b41aa7-ca61-4fb6-946f-031e0881394a.svg)
