@@ -1,6 +1,6 @@
 <h1>Hi✌</h1>
 <h2>I am a Web Developer</h2>
-There is the list of my projects: <br>
+<p>There is the list of my projects:</p>
 ## <a href="https://vksearcher.ru/">VK SEARCHER</a>
 ## <a href="https://vksearcher.ru/games/blackjack/welcome">BlackJack</a>
 
